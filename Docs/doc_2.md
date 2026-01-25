@@ -119,10 +119,12 @@ Postfix Evaluation:
 
 Example 1:
 
+![Sample Output A](images/prog2_1.png)
 
 
 Example 2:
-
+ 
+![Sample Output B](images/prog2_2.png)
 
 # Result
 
