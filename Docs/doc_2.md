@@ -43,13 +43,19 @@ Operator	Priority
 #define MAX 50
 
 typedef struct {
+
     char data[MAX];
+    
     int top;
+    
 } CharStack;
 
 typedef struct {
+
     int data[MAX];
+    
     int top;
+    
 } IntStack;
 
 
