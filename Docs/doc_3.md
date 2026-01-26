@@ -76,7 +76,7 @@ Reverse Traversal:
 
 # Sample Output
 
-<<<<<<< HEAD
+
 example:
 
 
