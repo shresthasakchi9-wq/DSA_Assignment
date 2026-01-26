@@ -76,7 +76,8 @@ Reverse Traversal:
 
 # Sample Output
 
-example
+<<<<<<< HEAD
+example:
 
 
 ![Sample Output A](images/prog3.png)
