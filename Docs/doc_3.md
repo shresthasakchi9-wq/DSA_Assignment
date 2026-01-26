@@ -76,6 +76,10 @@ Reverse Traversal:
 
 # Sample Output
 
+example
+
+
+![Sample Output A](images/prog3.png)
 
 
 # Result
